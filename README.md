@@ -35,6 +35,7 @@ This checklist is used whenever a project is going live at https://deniztezcan.m
 - [ ] Check page titles / descriptions
 - [ ] Test Facebook sharing. Provide og-tags if needed
 - [ ] Does Favicon load? Pin the tab in Safari to check pinned icon
+- [ ] Check if website has no more than 1 h1 present on all pages.
 
 _Repeat this section for all languages_
 
